@@ -2,6 +2,11 @@
 elastic-job自动装配中间件
 
 ## 使用说明
+- 下载该项目，编译install
+```java
+mvn install
+
+```
 - 新项目中引入依赖
 ```pom
         <dependency>
