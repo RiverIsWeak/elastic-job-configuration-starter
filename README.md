@@ -1,4 +1,4 @@
-# elastic-job-spring-boot-starter
+# elastic-job-configuration-starter
 elastic-job自动装配中间件
 
 ## 使用说明
